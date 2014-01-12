@@ -1,4 +1,3 @@
-
 <?php 
 session_start();
 
@@ -199,7 +198,9 @@ include('header.php'); ?>
               </center>
 				</div>
 
-
+<script>
+alert("de script mandaya");
+</script>
 
 
 <?php include('footer.php'); ?>
